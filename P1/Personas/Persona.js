@@ -31,9 +31,9 @@ angular.module("angular", [])
 				Name: "Ayax García",
 				Photo: "man.png",
 				Quote: "La vida imitar al arte(Oscar Wilde)",
-				Age: 19,
-				Occupation: "Estudiante de filosofía",
-				Family: "Soltero",
+				Age: 51,
+				Occupation: "Profesor de filosofía",
+				Family: "Casado",
 				Location: "Granada (Albaicin)",
 				Character: "Le gusta deleitarse con la lectura y el arte",
 				PersonalityTraits: [
@@ -42,9 +42,9 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Luchar por el cambio político", "Vivir sin depender del dinero", "Dedicarse al arte", "Conocer la forma de vivir de otras personas y su cultura"],
-				Frustrations: ["No le gusta depender de las redes sociales", "Siente que las instituciones de enseñanza están obsoletas y capitalizadas, con un conocimiento doctrinista"],
-				Bio: "Su infancia fué en el Albaicin y ahora estudia la carrera de filosofía, queda con sus amigos para charlar sobre literatura, política y filosofía por las tardes y asisten a jam de poesía",
+				Goals: ["Luchar por el cambio político", "Tratar de vivir sin depender de los bienes materiales", "Conocer la forma de vivir de otras personas y su cultura", "Transmitir su pasión por la filosofía y cambiar la forma de enseñar"],
+				Frustrations: ["No le gusta depender de las redes sociales", "Siente que las instituciones de enseñanza están obsoletas y capitalizadas, con un conocimiento doctrinista", "Siente que ha olvidado una de sus pasiones con la madurez: la poesía"],
+				Bio: "Su infancia fué en el Albaicin y estudió la carrera de filosofía, queda con sus amigos y compañeros de trabajo para charlar sobre literatura, política y filosofía por las tardes y asisten a jam de poesía",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Movil", Value: 4 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos: "Siempre ha pensando que los seres humanos son nómadas por naturaleza y que la mejor forma de vivr es viajar y así poder encontrarse así mismo",  
+                Contextos: "Lleva unos años que siente que ha perdido su junventud, que ha perdido muchas cosas en su camino y que es demasiado tarde, desea realizar un viaje con su mujer para encontrarse a si mismo y su ilusión, así como recuperar su poesia",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 2 },
 					{ Name: "Online & Social Media", Value: 3 },
