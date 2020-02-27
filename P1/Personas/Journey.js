@@ -89,21 +89,21 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Cayetana Jimenez Robles",
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                goal1: "Quiere preparar un viaje de trabajo, pero hacer algo de turismo por el camino",
+                touch1: "trbaajo",
+                feel1: "4",
+                con1: "Quiere ir a un pais rico ya que quiere todas las comodidades posible, además que quiere un compañero/a que la acompañe",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
+                goal2: "Recibe una recomendación de la empresa. Usa la aplicación recomendada",
                 touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                feel2: "3",
+                con2: "Tiene que esperar a que ",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
