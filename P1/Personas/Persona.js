@@ -28,7 +28,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Ayax García",
+				Name: "Ayax García Fernández",
 				Photo: "man.png",
 				Quote: "La vida imitar al arte(Oscar Wilde)",
 				Age: 51,
