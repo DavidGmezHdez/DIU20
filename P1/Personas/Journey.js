@@ -34,38 +34,38 @@ angular.module("angular", [])
                 Photo: "man.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje en verano junto con su mujer",
+                goal1: "Quiere preparar un viaje en verano junto con su mujer a Nepal",
                 touch1: "teléfono",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres su mujer ",
+                con1: "ver cuantos días puede tener libres su mujer y busca la pagina web recomendada por su compañero",
                 ima1: "cartoon-phoning.png",
 				
                 /*** PASO #2: DECISION ***/ 
-                goal2: "Habla con su compañero de trabajo para preguntarle por páginas de viajes diferentes",
-                touch2: "persona",
-                feel2: "3",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-speaking.png",
+                goal2: "Visita la pagina web de TripGiraffe y busca viajes a Nepal",
+                touch2: "ordenador",
+                feel2: "2",
+                con2: "No existe ningun viaje a Nepal",
+                ima2: "cartoon-PCtyping.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar la pagina web de TripGiraffe que le recomendaron y publicar un viaje en Nepal con el objetivo de encontrar y con gente de su misma edad",
+                goal3: "Se registra en la pagina web para poder publicar su viaje a Nepal",
                 touch3: "ordenador",
                 feel3: "3",
                 con3: "Registrarse y aprender a usar la página web",
-                ima3: "cartoon-PCtyping.png",
+                ima3: "cartoon-PChard.png",
                 
                 /*** PASO #4: TRAZA ***/ 
                 
-                goal4: "Se pone a trazar las rutas del viaje y sitios a los que visitar junto con su mujer",
+                goal4: "Crea el viaje a Nepal con las rutas del viaje y sitios a los que visitar juntos",
                 touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar recomendaciones de lugares de interés en páginas y decidirlo entre su mujer y el",
-                ima4: "cartoon-looking.png",
+                feel4: "2",
+                con4: "Crear el viaje en la pagina web y buscar recomendaciones de lugares de interés en páginas y decidirlo entre su mujer y el",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Hablais por skype con las personas interesadas en el viaje",
+                goal5: "Hablan por skype con las personas interesadas en el viaje",
                 touch5: "móvil (skype)",
                 feel5: "2",
                 con5: "Tiene que descartar a algunas personas ya que no casan con sus motivaciones e intereses",
@@ -74,12 +74,11 @@ angular.module("angular", [])
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Encuentra otra pareja de su misma edad y con las mismas aficiones",
+                goal6: "Encuentra otra pareja de su misma edad y con las mismas aficiones tras tener que crear desde cero el propio viaje",
                 touch6: "ordenador",
                 feel6: "4",
-                con6: "Siente cierta incertidumbre ya que no conoce a la pareja en persona",
+                con6: "Siente cierta incertidumbre ya que no conoce a la pareja en persona y cansancio por todo el proceso de creación de viaje",
                 ima6: "cartoon-resting.png",
-                // poner que le da miedo por saber que persona son y eso, organizar viaje
                 
 			},
 			{	
@@ -94,14 +93,14 @@ angular.module("angular", [])
                 
 				 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje de trabajo, pero hacer algo de turismo por el camino",
-                touch1: "trabajo",
+                touch1: "Trabajo",
                 feel1: "4",
-                con1: "Quiere ir a un pais rico ya que quiere todas las comodidades posible, además que quiere un compañero/a que la acompañe",
+                con1: "Quiere un compañero/a que la acompañe. Se informa de páginas donde puede conseguir compañeros para el viaje",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Recibe una recomendación de la empresa. Usa la aplicación recomendada",
-                touch2: "Servicio (agencia)",
+                goal2: "Encuentra la página TripGiraffe",
+                touch2: "Ordenador",
                 feel2: "3",
                 con2: "Decide crearse una cuenta en la pagina web. ",
                 ima2: "cartoon-PChappy.png",
@@ -118,26 +117,26 @@ angular.module("angular", [])
                 
                 goal4: "Analiza los distintos compañeros que se unen para su viaje",
                 touch4: "Móvil (webapp)",
-                feel4: "2",
+                feel4: "3",
                 con4: "No le gusta ninguno ya que es muy selectiva. Cree que nunca va a encontrar un compañero ideal y se enfada",
                 ima4: "cartoon-phoningangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Un compañero que cumple los requisitos se une a su viaje",
+                goal5: "Ningún compañero le gusta.",
                 touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Analiza bien los rasgos de este compañero",
+                feel5: "2",
+                con5: "Se enfada con la página web por no proporcionarle los compañeros suficientes",
                 ima5: "cartoon-PChard.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Decide aceptar a este usuario como compañero y procede a irse de viaje",
+                goal6: "Se borra de la página web",
                 touch6: "Movil (llamada)",
-                feel6: "4",
-                con6: "Se pondrá en contacto con él y juntos se irán de viaje.",
-                ima6: "cartoon-happy.png",
+                feel6: "1",
+                con6: "Decide probar suerte en otras apps especializadas",
+                ima6: "cartoon-PCangry.png",
                 
                 
                 
