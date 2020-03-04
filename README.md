@@ -29,18 +29,24 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+En la práctica tenemos que analizar una plataforma en la que compartir viaje.Barajamos la opciones de Couchsurfing, Showaround y Tripgirafe. Couchsurfing es de alojamiento y Showaround es de guias turisticos. Elegimos Tripgirafe; permite personalizar el tipo de viaje que quieres buscar y es joven.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 ![Persona 1](img/Imagen-Persona1.png) Persona 1
-![Persona 1](img/Imagen-Persona2.png) Persona 2
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+He elegido esta porque cada vez es más común que ciertas personas mayores no quieran envejecer y necesiten encontrarse a sí mismo(crisis de los 50).
+
+![Persona 2](img/Imagen-Persona2.png) Persona 2
+
+He elegido a esta porque se puede aprovechar para explotar el filtro de selección de compañeros de esta app, ya que el sujeto en cuestión es una persona muy selectiva y poco amigable.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+
+![Journey 1](img/JourneyMap-Persona1.png) Journey Persona 1
+
+![Journey 2](img/JourneyMap-Persona2.png) Journey Persona 2
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
