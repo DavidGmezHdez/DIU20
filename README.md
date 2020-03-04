@@ -46,10 +46,11 @@ He elegido a esta porque se puede aprovechar para explotar el filtro de selecci�
 
 ![Journey 1](img/JourneyMap-Persona1.png) Journey Persona 1
 
+Lo he elegido ya que nuestra persona la mayoría de sus viajes son de forma tradicional pero quiere experimentar y decide usar una página web de viajes para encontrar a otras parejas como ellos.
+
 ![Journey 2](img/JourneyMap-Persona2.png) Journey Persona 2
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+He elegido este JourneyMap porque puede asemejarse a una persona que pueda ser bastante exigente y busque cosas muy específicas, resultando en un completo fracaso su experiencia con la aplicación.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
