@@ -34,6 +34,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![Persona 1](img/Imagen-Persona1.png) Persona 1
+![Persona 1](img/Imagen-Persona2.png) Persona 2
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
