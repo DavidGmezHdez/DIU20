@@ -94,7 +94,7 @@ angular.module("angular", [])
                 
 				 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje de trabajo, pero hacer algo de turismo por el camino",
-                touch1: "trbaajo",
+                touch1: "trabajo",
                 feel1: "4",
                 con1: "Quiere ir a un pais rico ya que quiere todas las comodidades posible, además que quiere un compañero/a que la acompañe",
                 ima1: "cartoon-going.png",
@@ -103,41 +103,41 @@ angular.module("angular", [])
                 goal2: "Recibe una recomendación de la empresa. Usa la aplicación recomendada",
                 touch2: "Servicio (agencia)",
                 feel2: "3",
-                con2: "Tiene que esperar a que ",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Decide crearse una cuenta en la pagina web. ",
+                ima2: "cartoon-PChappy.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Pone un viaje en la aplicación dada",
+                touch3: "Móvil (webapp)",
+                feel3: "4",
+                con3: "Decide esperar a que se una un compañero",
+                ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
+                goal4: "Analiza los distintos compañeros que se unen para su viaje",
                 touch4: "Móvil (webapp)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                con4: "No le gusta ninguno ya que es muy selectiva. Cree que nunca va a encontrar un compañero ideal y se enfada",
+                ima4: "cartoon-phoningangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
+                goal5: "Un compañero que cumple los requisitos se une a su viaje",
                 touch5: "Móvil (webapp)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "Analiza bien los rasgos de este compañero",
+                ima5: "cartoon-PChard.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Decide aceptar a este usuario como compañero y procede a irse de viaje",
+                touch6: "Movil (llamada)",
+                feel6: "4",
+                con6: "Se pondrá en contacto con él y juntos se irán de viaje.",
+                ima6: "cartoon-happy.png",
                 
                 
                 
