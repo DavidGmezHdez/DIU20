@@ -3,15 +3,17 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Trip Giraffe
 
-Descripción: 
+Descripción: En esta práctica analizaremos la interfaz de usuario de la página web de Trip Giraffe.
 
 Logotipo: 
 
+![Logotipo](img/logotipo.png)
+
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * ![Estudiante1](img/estudiante1.png) Gómez Hernández David     
+ * ![Estudiante2](img/estudiante2.png) Santos Soria Jose
 
 ----- 
 
