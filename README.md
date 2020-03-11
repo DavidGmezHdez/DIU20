@@ -13,7 +13,7 @@ Logotipo:
 
 Miembros
  * ![Estudiante1](img/estudiante1.png) Gómez Hernández David     
- * ![Estudiante2](img/estudiante2.png) Santos Soria Jose
+ * ![Estudiante2](img/estudiante2.png) Santos Salvador Jose
 
 ----- 
 
