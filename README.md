@@ -54,11 +54,9 @@ He elegido este JourneyMap porque puede asemejarse a una persona que pueda ser b
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+VALORACIÓN FINAL: 62/100
+
+Es una página muy limpia e intuitiva. Ofrece un servicio variado y nuevo pero limitado (siendo de pago y solo en inglés).
 
 
 ## Paso 2. UX Design  
