@@ -9,7 +9,7 @@ Descripción: En esta práctica analizaremos la interfaz de usuario de la págin
 
 Logotipo: 
 
-![Logotipo](img/logotipo.png)
+![Logotipo](img/logo.png)
 
 Miembros
  * ![Estudiante1](img/estudiante1.png) Gómez Hernández David     
