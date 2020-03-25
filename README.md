@@ -67,13 +67,7 @@ Es una página muy limpia e intuitiva. Ofrece un servicio variado y nuevo pero l
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Malla receptora](img/aww-board.png) Feedback Capture Grid
   
   
   
