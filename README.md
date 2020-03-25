@@ -67,9 +67,9 @@ Es una página muy limpia e intuitiva. Ofrece un servicio variado y nuevo pero l
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-![Malla receptora](img/aww-board.png) Feedback Capture Grid
+![Malla receptora](img/aww-board.png) Feedback Capture Grid     
   
-Para todas las personas que quieran tener la oportunidad de viajar pero no tengan recursos económicos, se les permite viajar con compañeros para amortizar gastos así como forzas nuevos vínculos.
+Nuestra propuesta de valor trata de dirigirse a un público con menos recursos económicos y permitiendo su uso sin opción de pago. También satisface las necesidades de algunas personas mayores con una aplicación móvil y un chat para hablar con los viajeros.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
