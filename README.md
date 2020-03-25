@@ -69,12 +69,7 @@ Es una página muy limpia e intuitiva. Ofrece un servicio variado y nuevo pero l
 
 ![Malla receptora](img/aww-board.png) Feedback Capture Grid
   
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Para todas las personas que quieran tener la oportunidad de viajar pero no tengan recursos económicos, se les permite viajar con compañeros para amortizar gastos así como forzas nuevos vínculos.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
