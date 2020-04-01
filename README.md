@@ -85,7 +85,14 @@ Nuestra propuesta de valor trata de dirigirse a un público con menos recursos e
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+|  Buscador  | Realiza una búsqueda sobre la base datos con la información introducida
+|  Contacto  | Contacto directo con el servicio de atención al cliente
+|  Chat  | Chat online para hablar con el resto de viajeros
+|  Experiencias  | Te muestra viajes realizados por otras personas
+|  Panel lateral  | Muestra las opciones de la página principal que se encuentran al ir deslizando hacia abajo.
+|  Unirme  | Envías una petición para unirte a un viaje
+|  Usuario  | El icono usuario, te lleva a la ventana para registrarse, iniciar sesión o para ver el área personal
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
