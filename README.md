@@ -93,9 +93,9 @@ Término | Significado
 
 ![PantallaPrincipal](img/Boceto_PantallaPrincipal.png) Pantalla Principal
 
-![PantallaPrincipalPestañaExtendida](img/Boceto_PantallaPrincipalPestañaExtendida.png) Pantalla Principal Pestaña Extendida
+![PantallaPrincipalPestañaExtendida](img/Boceto_PantallaPrincipal_PestañaExtendida.png) Pantalla Principal Pestaña Extendida
 
-![PantallaPrincipalLoginExtendido](img/Boceto_PantallaPrincipalLoginExtendida.png) Pantalla Principal Login Extendido
+![PantallaPrincipalLoginExtendido](img/Boceto_PantallaPrincipal_LoginExtendida.png) Pantalla Principal Login Extendido
 
 ![Experiencias](img/Boceto_Experiencias.png) Experiencias
 
