@@ -74,7 +74,7 @@ Nuestra propuesta de valor trata de dirigirse a un público con menos recursos e
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Malla receptora](img/mapaSituacion.png) Sitemap   
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
@@ -91,7 +91,33 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![PantallaPrincipal](img/Boceto_PantallaPrincipal.png) Pantalla Principal
+
+![PantallaPrincipalPestañaExtendida](img/Boceto_PantallaPrincipalPestañaExtendida.png) Pantalla Principal Pestaña Extendida
+
+![PantallaPrincipalLoginExtendido](img/Boceto_PantallaPrincipalLoginExtendida.png) Pantalla Principal Login Extendido
+
+![Experiencias](img/Boceto_Experiencias.png) Experiencias
+
+![ChatAbierto](img/Boceto_Chat.png) Chat Abierto
+
+![BuscadorPredeterminado](img/Boceto_BuscadorPredeterminado.png) Buscador Predeterminado
+
+![BuscadorBusqueda](img/Boceto_BuscadorBusqueda.png) Buscador resultado
+
+![Informacion](img/Boceto_Informacion.png) Informacion
+
+![Contacto](img/Boceto_Contacto.png) Contacto
+
+![Perfil](img/Boceto_Perfil.png) Perfil usuario
+
+![PerfilInfoViaje](img/Boceto_PerfilInfoViaje.png) Perfil Usuario Informacion Viajes
+
+![CrearViaje](img/Boceto_CrearViaje.png) Crear Viaje
+
+![PerfilViajeCreado](img/Boceto_PerfilViajeCreado.png) Perfil Usuario Viaje Creado
+
+![PerfilInfoViajeCreado](img/Boceto_PerfilInfoViajeCreado.png) Perfil Usuario Viaje Creado
 
 
 ## Paso 3. Make (Prototyping) 
