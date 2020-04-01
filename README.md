@@ -81,7 +81,7 @@ Nuestra propuesta de valor trata de dirigirse a un público con menos recursos e
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+![CardSorting](img/card_sorting.png) Card Sorting
 
 Término | Significado     
 | ------------- | -------
