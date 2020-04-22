@@ -40,69 +40,11 @@ https://github.com/DavidGmezHdez/DIU20/tree/master/P1
 
 ## Paso 2. UX Design  
 
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
-
-![Malla receptora](img/aww-board.png) Feedback Capture Grid     
-  
-Nuestra propuesta de valor trata de dirigirse a un público con menos recursos económicos y permitiendo su uso sin opción de pago. También satisface las necesidades de algunas personas mayores con una aplicación móvil y un chat para hablar con los viajeros.
-
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
------
-
-![Malla receptora](img/mapaSituacion.png) Sitemap   
-
-
-![Método UX](img/labelling.png) 2.c Labelling 
-----
-
-
-![CardSorting](img/card_sorting.png) Card Sorting
-
-Término | Significado     
-| ------------- | -------
-|  Buscador  | Realiza una búsqueda sobre la base datos con la información introducida
-|  Contacto  | Contacto directo con el servicio de atención al cliente
-|  Chat  | Chat online para hablar con el resto de viajeros
-|  Experiencias  | Te muestra viajes realizados por otras personas
-|  Panel lateral  | Muestra las opciones de la página principal que se encuentran al ir deslizando hacia abajo.
-|  Unirme  | Envías una petición para unirte a un viaje
-|  Usuario  | El icono usuario, te lleva a la ventana para registrarse, iniciar sesión o para ver el área personal
-
-
-
-![Método UX](img/Wireframes.png) 2.d Wireframes
------
-
-![PantallaPrincipal](img/Boceto_PantallaPrincipal.png) Pantalla Principal
-
-![PantallaPrincipalPestañaExtendida](img/Boceto_PantallaPrincipal_PestañaExtendida.png) Pantalla Principal Pestaña Extendida
-
-![PantallaPrincipalLoginExtendido](img/Boceto_PantallaPrincipal_LoginExtendida.png) Pantalla Principal Login Extendido
-
-![Experiencias](img/Boceto_Experiencias.png) Experiencias
-
-![ChatAbierto](img/Boceto_Chat.png) Chat Abierto
-
-![BuscadorPredeterminado](img/Boceto_BuscadorPredeterminado.png) Buscador Predeterminado
-
-![BuscadorBusqueda](img/Boceto_BuscadorBusqueda.png) Buscador resultado
-
-![Informacion](img/Boceto_Informacion.png) Informacion
-
-![Contacto](img/Boceto_Contacto.png) Contacto
-
-![Perfil](img/Boceto_Perfil.png) Perfil usuario
-
-![PerfilInfoViaje](img/Boceto_PerfilInfoViaje.png) Perfil Usuario Informacion Viajes
-
-![CrearViaje](img/Boceto_CrearViaje.png) Crear Viaje
-
-![PerfilViajeCreado](img/Boceto_PerfilViajeCreado.png) Perfil Usuario Viaje Creado
-
-![PerfilInfoViajeCreado](img/Boceto_PerfilInfoViajeCreado.png) Perfil Usuario Viaje Creado
-
+En este paso usaremos un diagrama para analizar en base a una serie de puntos la página web, de tal forma que hallemos posibles mejoras e ideas nuevas para usar
+en nuestro propio diseño. En base a esto, crearemos nuestra propia propuesta de valor.
+Crearemos un SiteMap, analizando los distintos grupos de usuario que pueden acceder a nuestra app, y las funciones que estos quieren hacer una vez dentro y con qué frecuencia.
+Haremos un Labelling en el cual dividiremos nuestra aplicación y la mostraremos en forma de arbol con el fin de mostrar las diferentes opciones y caminos a tomar una vez en uso. Tambien identificaremos los términos "clave" y explciaremos el significado.
+Por último mostraremos los bocetos de una primera base de nuestra aplicación.
 
 ## Paso 3. Make (Prototyping) 
 
