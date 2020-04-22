@@ -43,8 +43,10 @@ https://github.com/DavidGmezHdez/DIU20/tree/master/P1
 En este paso usaremos un diagrama para analizar en base a una serie de puntos la página web, de tal forma que hallemos posibles mejoras e ideas nuevas para usar
 en nuestro propio diseño. En base a esto, crearemos nuestra propia propuesta de valor.
 Crearemos un SiteMap, analizando los distintos grupos de usuario que pueden acceder a nuestra app, y las funciones que estos quieren hacer una vez dentro y con qué frecuencia.
-Haremos un Labelling en el cual dividiremos nuestra aplicación y la mostraremos en forma de arbol con el fin de mostrar las diferentes opciones y caminos a tomar una vez en uso. Tambien identificaremos los términos "clave" y explciaremos el significado.
+Haremos un Labelling en el cual dividiremos nuestra aplicación y la mostraremos en forma de arbol con el fin de mostrar las diferentes opciones y caminos a tomar una vez en uso. Tambien identificaremos los términos "clave" y explicaremos el significado.
 Por último mostraremos los bocetos de una primera base de nuestra aplicación.
+
+https://github.com/DavidGmezHdez/DIU20/tree/master/P2
 
 ## Paso 3. Make (Prototyping) 
 
