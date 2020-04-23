@@ -48,31 +48,16 @@ Por último mostraremos los bocetos de una primera base de nuestra aplicación.
 
 https://github.com/DavidGmezHdez/DIU20/tree/master/P2
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. Mi equipo UX-Case Study 
 
+En este paso se nos ha pedido realizar un análisis de el artículo "MuseMap Street Art App — UX Case Study", observando la estructura en la que se cuenta un UX-Case Study.
+Abordaremos temas sobre cómo responden a la pregunta sobre la que se desarrolla el producto. También hablaremos sobre cómo afrontan el análisis y la creación de personas. Por último hablaremos de la nterfaz y de los pasos que han ido siguiendo, de ser algo confusa a agradable y sencilla para los usuarios.
 
-![Método UX](img/moodboard.png) 3.a Moodboard
------
+Seguidamente de esto, crearemos nuestro propio logo que definirá nuestra aplicación y página web, creando un icono dentro de las marcas y una forma de reconocernos.
 
+Tras esto, procederemos a explciar que patrones de diseño de Interfaz de Usuario usaremos en nuestro proyecto, destacando unos frente a otros.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page 
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Estudio de Guidelines y Patrones IU a usar 
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+Por último enseñaremos un vídeo que documentará y resumirá el proyecto de forma efectiva y enfocado a nuevos consumidores.
 
 ## Paso 4. UX Check (Usability Testing) 
 
