@@ -18,7 +18,7 @@ Este artículo es una buena muestra de cómo realizar métodos y técnicas para 
 
 ![Método UX](imgP3/landing-page.png)  3.b Logotipo
 ----
-![logo](imgP3/logoNUEVO.png) Logo
+![logo](imgP3/logoNuevo.png) Logo
 
 Hemos elegido este logo ya que representa una cámara de fotos, estando dentro en la retícula el titulo de nuestra aplicación.
 Las herramientas usadas han sido draw.io y GIMP.
