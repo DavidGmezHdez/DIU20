@@ -34,7 +34,7 @@ Seguidamente crearemos unos usuarios ficticios que servirán para reflejar en ci
 Usaremos esos puntos de vista para realizar un mapa de viaje de usuario en los que se reflejan las experiencias que tienen cada usuario usando la aplicación.
 Por último, calificaremos la página en base a una serie de características, dándonos una nota final.
 
-https://github.com/DavidGmezHdez/DIU20/tree/master/P1
+[Práctica 1](https://github.com/DavidGmezHdez/DIU20/tree/master/P1) 
 
 
 
@@ -46,7 +46,7 @@ Crearemos un SiteMap, analizando los distintos grupos de usuario que pueden acce
 Haremos un Labelling en el cual dividiremos nuestra aplicación y la mostraremos en forma de arbol con el fin de mostrar las diferentes opciones y caminos a tomar una vez en uso. Tambien identificaremos los términos "clave" y explicaremos el significado.
 Por último mostraremos los bocetos de una primera base de nuestra aplicación.
 
-https://github.com/DavidGmezHdez/DIU20/tree/master/P2
+[Práctica 2](https://github.com/DavidGmezHdez/DIU20/tree/master/P2) 
 
 ## Paso 3. Mi equipo UX-Case Study 
 
@@ -59,7 +59,7 @@ Tras esto, procederemos a explciar que patrones de diseño de Interfaz de Usuari
 
 Por último enseñaremos un vídeo que documentará y resumirá el proyecto de forma efectiva y enfocado a nuevos consumidores.
 
-https://github.com/DavidGmezHdez/DIU20/tree/master/P3
+[Práctica 3](https://github.com/DavidGmezHdez/DIU20/tree/master/P3) 
 
 ## Paso 4. UX Check (Usability Testing) 
 
