@@ -68,7 +68,7 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
 ![Tipografia](imgP3/Tipografia.png)  Tipografia     
         - Iconografía
 ![Iconos](imgP3/arrow.png =25x)  Icono 1
-<img src="imgP3/arrow.png" width = "30%"/>
+<img src="imgP3/arrow.png" width = "7%"/>
 ![Iconos](imgP3/avion.png =25x)  Icono 2
 ![Iconos](imgP3/barra.png =25x)  Icono 3
 ![Iconos](imgP3/chat.png =25x)  Icono 4
