@@ -59,7 +59,7 @@ Despues, procedimos a explciar que patrones de diseño de Interfaz de Usuario us
 
 Diseñamos un vídeo que documentará y resumirá el proyecto de forma efectiva y enfocado a ganar nuevos consumidores.  
 
-Como documentación final de la práctica realizamos una valoración personal así como de nuestra experiencia y de los conocimientos adquiridos.
+Como documentación final de la práctica realizamos una valoración personal así como un analisis de nuestra experiencia, metodología de trabajo y conocimientos adquiridos.
 
 [Práctica 3](https://github.com/DavidGmezHdez/DIU20/tree/master/P3) 
 
