@@ -28,8 +28,7 @@ Creemos que este logo tiene carisma y puede desempeñar las funciones de cabecer
 
 Para la investigación de diseño y patrones hemos consultados algunas páginas y hemos podido extraer algunos patrones y técnicas de diseño para nuestra aplicación.
 
-**Siguiendo con la guía UX de Google puede ser interesante aplicar:**
-
+**Siguiendo con la guía UX de Google puede ser interesante aplicar:**  
 1.Navegación y exploración de la aplicación:  
     **- Mostrar el valor de la aplicación en la primera vez**  
         Es importante mostrar el cliente las opciones de nuestro sistema al usuario nada más entrar, buscar viajero, crear viajes y ver viajes anteriores.
@@ -47,7 +46,7 @@ Para la investigación de diseño y patrones hemos consultados algunas páginas 
     **- Chat Design Pattern**  
         Es vital que los usuarios puedan chatear sin tener que salirse del sistema. En nuestra aplicación, el chat permite hablar de forma global con todos los usuarios del sistema y también de forma privada e individual con un usuario concreto. Para seguir este patrón es necesario proporcionar una ventana para el chat, una barra para enviar esos mensajes y un ventana que muestre dichos mensajes, será necesario que quede por encima del resto de funciones de la aplicación (para no tener que salir de esta) y mostrar de forma clara esa división entre el chat de todos los usuarios y los privados.
 
-En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-web-design/) podemos aplicar estos patrones:  
+En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-web-design/) podemos aplicar estos patrones:    
     **- Wax Creative Design**  
         Con este diseño mantenemos la información dada en el apartado “Sobre nosotros”lo más limpio posible. Le damos personalidad a la página con algún detalle de cada uno (por ejemplo su rutina diaria favorita), además de que damos un toque más jovial y amigable a la página.  
     **- Interactive Maps**  
@@ -58,7 +57,7 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
         Podrás acceder a esas secciones deslizando hacia arriba o hacia abajo en la pantalla o bien usar la herramienta de la hamburguesa, la cual será un botoncito desplegable que cuando le des te muestre las diferentes secciones a las que puedes ir, y si haces click, la propia aplicación te llevará a esa sección. Todo esto sin recargas de página.   
         Esta herramienta si se usa bien garantiza bastante eficiencia y velocidad de manejo, además que su uso es bastante extendido en otras aplicaciones.
     
-- Guia visual de estilo (paleta de colores, fuentes, etc)                
+#### Guia visual de estilo (paleta de colores, fuentes, etc)                
                    
 - Tipografia   
 ![Tipografia](imgP3/Tipografia.png)   
