@@ -78,7 +78,7 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
 <img src="imgP3/user_no.png" width = "7%"/>
 <img src="imgP3/user.png" width = "7%"/>
 
--Guia de color
+-Guia de color        
 ![GUia](imgP3/guíaColor.png)
 
     
