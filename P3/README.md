@@ -85,4 +85,10 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
 ![Método UX](imgP3/mockup.png)  3.d Video
 ----
 
+![Método UX](img/Survey.png). 3.e Valoración personal de la práctica (Documenta)
+Esta práctica la comenzamos en clase, nos conocíamos antes pero nunca habíamos trabajado en grupo sin embargo hemos sido capaces de adaptarnos a la situación del coronavirus y junto a herramientas como github, trello o drive hemos podido realizar de forma satisfactoria. La organización y la división de la tareas la realizamos de acuerdo a las habilidades y preferencias de cada miembro.
+Durante el desarrollo de la misma hemos podido observar cómo en ocasiones no nos ponemos en la piel de los usuarios y únicamente pensamos como informáticos, generando graves problemas tanto en el entendimiento del producto que se nos pide o en su uso. No solo hemos aprendido a pensar como usuarios, también hemos desarrollado técnicas para adaptar nuestros sistemas para una mayor accesibilidad por parte de toda la población.    
+La realización de estas prácticas nos ha servido para ver la gran importancia que tiene el usuario y su interacción con nuestro sistema, siendo fundamental un diseño precio en la interfaz. Para ello es necesario conocer y utilizar las distintas técnicas de UX que hemos podido dominar.
+
+
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
