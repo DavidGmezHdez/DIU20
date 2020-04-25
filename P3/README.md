@@ -67,9 +67,9 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
     - Guia visual de estilo (paleta de colores, fuentes, etc)
 ![Tipografia](imgP3/Tipografia.png)  Tipografia
         - Iconografía
-![Iconos](imgP3/arrow.png =25x25)  Icono 1
-![Iconos](imgP3/avion.png =25x25)  Icono 2
-![Iconos](imgP3/barra.png =25x25)  Icono 3
+![Iconos](imgP3/arrow.png)  Icono 1
+![Iconos](imgP3/avion.png)  Icono 2
+![Iconos](imgP3/barra.png)  Icono 3
 ![Iconos](imgP3/chat.png)  Icono 4
 ![Iconos](imgP3/maleta.png)  Icono 5
 ![Iconos](imgP3/monumento.png)  Icono 6
