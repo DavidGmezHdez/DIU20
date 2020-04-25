@@ -66,6 +66,8 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
     
     - Guia visual de estilo (paleta de colores, fuentes, etc)                
                   
+
+
     - Tipografia   
 ![Tipografia](imgP3/Tipografia.png)                       
         - Iconografía       
