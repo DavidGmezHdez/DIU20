@@ -65,10 +65,8 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
         Esta herramienta si se usa bien garantiza bastante eficiencia y velocidad de manejo, además que su uso es bastante extendido en otras aplicaciones.
     
     - Guia visual de estilo (paleta de colores, fuentes, etc)                
-                  
-
-
-    - Tipografia   
+                   
+- Tipografia   
 ![Tipografia](imgP3/Tipografia.png)                       
         - Iconografía       
 <img src="imgP3/arrow.png" width = "7%"/>
