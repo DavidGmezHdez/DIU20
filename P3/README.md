@@ -48,11 +48,11 @@ Para la investigación de diseño y patrones hemos consultados algunas páginas 
         Es vital que los usuarios puedan chatear sin tener que salirse del sistema. En nuestra aplicación, el chat permite hablar de forma global con todos los usuarios del sistema y también de forma privada e individual con un usuario concreto. Para seguir este patrón es necesario proporcionar una ventana para el chat, una barra para enviar esos mensajes y un ventana que muestre dichos mensajes, será necesario que quede por encima del resto de funciones de la aplicación (para no tener que salir de esta) y mostrar de forma clara esa división entre el chat de todos los usuarios y los privados.
 
 En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-web-design/) podemos aplicar estos patrones:  
-    - Wax Creative Design  
+    **- Wax Creative Design**  
         Con este diseño mantenemos la información dada en el apartado “Sobre nosotros”lo más limpio posible. Le damos personalidad a la página con algún detalle de cada uno (por ejemplo su rutina diaria favorita), además de que damos un toque más jovial y amigable a la página.  
-    - Interactive Maps  
+    **- Interactive Maps**  
         Para realizar el uso de un mapa interactivo a la hora de crear viajes es mejor invitar al usuario en cada de las opciones. Una forma de simplificarlo es eliminando las leyendas convencionales y usar controles básicos para moverse por el.  
-    - Explicación menú hamburguesa  
+    **- Explicación menú hamburguesa**  
         Debido a que queremos hacer que nuestra aplicación sea accesible, hemos pensado que hacer una sola página que contenga toda la información puede ser lo mejor.
         La página principal de nuestra aplicación estará dividida en secciones.   
         Podrás acceder a esas secciones deslizando hacia arriba o hacia abajo en la pantalla o bien usar la herramienta de la hamburguesa, la cual será un botoncito desplegable que cuando le des te muestre las diferentes secciones a las que puedes ir, y si haces click, la propia aplicación te llevará a esa sección. Todo esto sin recargas de página.   
@@ -63,7 +63,7 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
 - Tipografia   
 ![Tipografia](imgP3/Tipografia.png)   
 
-- Iconografía       
+- Iconografía             
 <img src="imgP3/arrow.png" width = "7%"/>
 <img src="imgP3/chat.png" width = "7%"/>
 <img src="imgP3/maleta.png" width = "7%"/>
