@@ -57,23 +57,6 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
         Podrás acceder a esas secciones deslizando hacia arriba o hacia abajo en la pantalla o bien usar la herramienta de la hamburguesa, la cual será un botoncito desplegable que cuando le des te muestre las diferentes secciones a las que puedes ir, y si haces click, la propia aplicación te llevará a esa sección. Todo esto sin recargas de página.   
         Esta herramienta si se usa bien garantiza bastante eficiencia y velocidad de manejo, además que su uso es bastante extendido en otras aplicaciones.
     
-<<<<<<< HEAD
-    - Guia visual de estilo (paleta de colores, fuentes, etc)
-![Tipografia](imgP3/Tipografia.png)  Tipografia
-        - Iconografía
-![Iconos](imgP3/arrow.png)  Icono 1
-![Iconos](imgP3/avion.png)  Icono 2
-![Iconos](imgP3/barra.png)  Icono 3
-![Iconos](imgP3/chat.png)  Icono 4
-![Iconos](imgP3/maleta.png)  Icono 5
-![Iconos](imgP3/monumento.png)  Icono 6
-![Iconos](imgP3/mundo.png)  Icono 7
-![Iconos](imgP3/sombrilla.png)  Icono 8
-![Iconos](imgP3/user_no.png)  Icono 9
-![Iconos](imgP3/user.png)  Icono 10
-        - Guia de color
-![GUia](imgP3/guíaColor.png)  Guia Color
-=======
 #### Guia visual de estilo (paleta de colores, fuentes, etc)                
                    
 - Tipografia   
@@ -91,13 +74,12 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
 
 - Guia de color        
 ![GUia](imgP3/guíaColor.png)   
->>>>>>> 6905bff70c0d300119cf36603841fba9519c2b6e
 
     
 ![Método UX](imgP3/mockup.png)  3.d Video
 ----
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox     
-    
+
+[Enlace al vídeo](https://www.youtube.com/watch?v=aaQZiJFULKI&feature=youtu.be)
 
 ![Método UX](imgP3/Survey.png) 3.e Valoración personal de la práctica (Documenta)  
 ----
