@@ -67,17 +67,15 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
     - Guia visual de estilo (paleta de colores, fuentes, etc)
 ![Tipografia](imgP3/Tipografia.png)  Tipografia     
         - Iconografía
-![Iconos](imgP3/arrow.png =25x)  Icono 1
 <img src="imgP3/arrow.png" width = "7%"/>
-![Iconos](imgP3/avion.png =25x)  Icono 2
-![Iconos](imgP3/barra.png =25x)  Icono 3
-![Iconos](imgP3/chat.png =25x)  Icono 4
-![Iconos](imgP3/maleta.png =25x)  Icono 5
-![Iconos](imgP3/monumento.png =25x)  Icono 6
-![Iconos](imgP3/mundo.png =25x)  Icono 7
-![Iconos](imgP3/sombrilla.png =25x)  Icono 8
-![Iconos](imgP3/user_no.png =25x)  Icono 9
-![Iconos](imgP3/user.png =25x)  Icono 10
+<img src="imgP3/chat.png" width = "7%"/>
+<img src="imgP3/maleta.png" width = "7%"/>
+<img src="imgP3/monumento.png" width = "7%"/>
+<img src="imgP3/mundo.png" width = "7%"/>
+<img src="imgP3/sombrilla.png" width = "7%"/>
+<img src="imgP3/user_no.png" width = "7%"/>
+<img src="imgP3/user.png" width = "7%"/>
+
         - Guia de color
 ![GUia](imgP3/guíaColor.png)  Guia Color
 
