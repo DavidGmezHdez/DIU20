@@ -65,18 +65,18 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
         Esta herramienta si se usa bien garantiza bastante eficiencia y velocidad de manejo, además que su uso es bastante extendido en otras aplicaciones.
     
     - Guia visual de estilo (paleta de colores, fuentes, etc)
-![Tipografia](imgP3/Tipografia.png)  Tipografia
+![Tipografia](imgP3/Tipografia.png)  Tipografia     
         - Iconografía
-![Iconos](imgP3/arrow.png =25x25)  Icono 1
-![Iconos](imgP3/avion.png =25x25)  Icono 2
-![Iconos](imgP3/barra.png =25x25)  Icono 3
-![Iconos](imgP3/chat.png)  Icono 4
-![Iconos](imgP3/maleta.png)  Icono 5
-![Iconos](imgP3/monumento.png)  Icono 6
-![Iconos](imgP3/mundo.png)  Icono 7
-![Iconos](imgP3/sombrilla.png)  Icono 8
-![Iconos](imgP3/user_no.png)  Icono 9
-![Iconos](imgP3/user.png)  Icono 10
+![Iconos](imgP3/arrow.png =25x)  Icono 1
+![Iconos](imgP3/avion.png =25x)  Icono 2
+![Iconos](imgP3/barra.png =25x)  Icono 3
+![Iconos](imgP3/chat.png =25x)  Icono 4
+![Iconos](imgP3/maleta.png =25x)  Icono 5
+![Iconos](imgP3/monumento.png =25x)  Icono 6
+![Iconos](imgP3/mundo.png =25x)  Icono 7
+![Iconos](imgP3/sombrilla.png =25x)  Icono 8
+![Iconos](imgP3/user_no.png =25x)  Icono 9
+![Iconos](imgP3/user.png =25x)  Icono 10
         - Guia de color
 ![GUia](imgP3/guíaColor.png)  Guia Color
 
