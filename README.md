@@ -51,13 +51,15 @@ Por último mostraremos los bocetos de una primera base de nuestra aplicación.
 ## Paso 3. Mi equipo UX-Case Study 
 
 En este paso se nos ha pedido realizar un análisis de el artículo "MuseMap Street Art App — UX Case Study", observando la estructura en la que se cuenta un UX-Case Study.
-Abordaremos temas sobre cómo responden a la pregunta sobre la que se desarrolla el producto. También hablaremos sobre cómo afrontan el análisis y la creación de personas. Por último hablaremos de la nterfaz y de los pasos que han ido siguiendo, de ser algo confusa a agradable y sencilla para los usuarios.
+Abordaremos temas sobre cómo responden a la pregunta sobre la que se desarrolla el producto. También hablaremos sobre cómo afrontan el análisis y la creación de personas. Por último hablaremos de la interfaz y de los pasos que han ido siguiendo, de ser algo confusa a agradable y sencilla para los usuarios.
 
-Seguidamente de esto, crearemos nuestro propio logo que definirá nuestra aplicación y página web, creando un icono dentro de las marcas y una forma de reconocernos.
+Seguidamente de esto, creamos nuestro propio logo que definirá nuestra aplicación y página web, creando un icono dentro de las marcas y una forma de reconocernos.
 
-Tras esto, procederemos a explciar que patrones de diseño de Interfaz de Usuario usaremos en nuestro proyecto, destacando unos frente a otros.
+Despues, procedimos a explciar que patrones de diseño de Interfaz de Usuario usaremos en nuestro proyecto, destacando unos frente a otros, así como una guía de estilo (tipografía, iconografía y guía de color).
 
-Por último enseñaremos un vídeo que documentará y resumirá el proyecto de forma efectiva y enfocado a nuevos consumidores.
+Diseñamos un vídeo que documentará y resumirá el proyecto de forma efectiva y enfocado a ganar nuevos consumidores.  
+
+Como documentación final de la práctica realizamos una valoración personal así como un analisis de nuestra experiencia, metodología de trabajo y conocimientos adquiridos.
 
 [Práctica 3](https://github.com/DavidGmezHdez/DIU20/tree/master/P3) 
 

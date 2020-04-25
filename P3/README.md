@@ -28,42 +28,36 @@ Creemos que este logo tiene carisma y puede desempeñar las funciones de cabecer
 
 Para la investigación de diseño y patrones hemos consultados algunas páginas y hemos podido extraer algunos patrones y técnicas de diseño para nuestra aplicación.
 
-Siguiendo con la guía UX de Google puede ser interesante aplicar:
-
-1.Navegación y exploración de la aplicación:
-    - Mostrar el valor de la aplicación en la primera vez
+**Siguiendo con la guía UX de Google puede ser interesante aplicar:**  
+1.Navegación y exploración de la aplicación:  
+    **- Mostrar el valor de la aplicación en la primera vez**  
         Es importante mostrar el cliente las opciones de nuestro sistema al usuario nada más entrar, buscar viajero, crear viajes y ver viajes anteriores.
-    - Organizar y etiquetar las categorías del menú
+    **- Organizar y etiquetar las categorías del menú**  
         Se realiza una agrupación correcta en las categorías del menú para no confundir al usuario y que se queden bien diferenciadas. Experiencias en nuestro menú podría llevar a confundirse con viajes.
-    - Colocar el campo de búsqueda en una posición destacada
-        Es vital que los usuarios puedan acceder de forma rápida al campo de búsqueda y que sea visualmente fácil localizarlo, para ello tenemos un cuadro de búsqueda en la parte central justo debajo del logo.
-2.Registro:
-    - Ofrecer una utilidad clara antes de solicitar el registro
+    **- Colocar el campo de búsqueda en una posición destacada**  
+        Es vital que los usuarios puedan acceder de forma rápida al campo de búsqueda y que sea visualmente fácil localizarlo, para ello tenemos un cuadro de búsqueda en la parte central justo debajo del logo.  
+2.Registro:  
+    **- Ofrecer una utilidad clara antes de solicitar el registro**  
         Una aplicación que impide ver sus funciones antes de registrarse, puede provocar desconfianza en los usuarios. Nuestra aplicación permite su visualización completa sin registro y es arriba a la derecha de la app donde se puede ver la ventana para el registro o el inicio de sesión.
 
-Respecto a ui-patterns :
-
-    - Autocomplete Design Pattern
-        Para las búsqueda es útil seguir el diseño de autocompletado, permitiendo a los usuarios realizar las búsquedas más rápidas. Para ello se van mostrando búsquedas o sugerencias para lo que el usuario ha escrito hasta ese momento.
-    - Chat Design Pattern
+**Respecto a [ui-patterns](https://ui-patterns.com/) :**   
+    **- Autocomplete Design Pattern**  
+        Para las búsqueda es útil seguir el diseño de autocompletado, permitiendo a los usuarios realizar las búsquedas más rápidas. Para ello se van mostrando búsquedas o sugerencias para lo que el usuario ha escrito hasta ese momento.  
+    **- Chat Design Pattern**  
         Es vital que los usuarios puedan chatear sin tener que salirse del sistema. En nuestra aplicación, el chat permite hablar de forma global con todos los usuarios del sistema y también de forma privada e individual con un usuario concreto. Para seguir este patrón es necesario proporcionar una ventana para el chat, una barra para enviar esos mensajes y un ventana que muestre dichos mensajes, será necesario que quede por encima del resto de funciones de la aplicación (para no tener que salir de esta) y mostrar de forma clara esa división entre el chat de todos los usuarios y los privados.
 
-En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-web-design/) podemos aplicar estos patrones:
-
-    - Wax Creative Design
-        Con este diseño mantenemos la información dada en el apartado “Sobre nosotros”lo más limpio posible. Le damos personalidad a la página con algún detalle de cada uno (por ejemplo su rutina diaria favorita), además de que damos un toque más jovial y amigable a la página.
-    - Interactive Maps
-        Para realizar el uso de un mapa interactivo a la hora de crear viajes es mejor invitar al usuario en cada de las opciones. Una forma de simplificarlo es eliminando las leyendas convencionales y usar controles básicos para moverse por el.
-        falta escribrolo.
-
-    - Explicación menú hamburguesa
+En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-web-design/) podemos aplicar estos patrones:    
+    **- Wax Creative Design**  
+        Con este diseño mantenemos la información dada en el apartado “Sobre nosotros”lo más limpio posible. Le damos personalidad a la página con algún detalle de cada uno (por ejemplo su rutina diaria favorita), además de que damos un toque más jovial y amigable a la página.  
+    **- Interactive Maps**  
+        Para realizar el uso de un mapa interactivo a la hora de crear viajes es mejor invitar al usuario en cada de las opciones. Una forma de simplificarlo es eliminando las leyendas convencionales y usar controles básicos para moverse por el.  
+    **- Explicación menú hamburguesa**  
         Debido a que queremos hacer que nuestra aplicación sea accesible, hemos pensado que hacer una sola página que contenga toda la información puede ser lo mejor.
-        La página principal de nuestra aplicación estará dividida en secciones. 
-
-        Podrás acceder a esas secciones deslizando hacia arriba o hacia abajo en la pantalla o bien usar la herramienta de la hamburguesa, la cual será un botoncito desplegable que cuando le des te muestre las diferentes secciones a las que puedes ir, y si haces click, la propia aplicación te llevará a esa sección. Todo esto sin recargas de página. 
-
+        La página principal de nuestra aplicación estará dividida en secciones.   
+        Podrás acceder a esas secciones deslizando hacia arriba o hacia abajo en la pantalla o bien usar la herramienta de la hamburguesa, la cual será un botoncito desplegable que cuando le des te muestre las diferentes secciones a las que puedes ir, y si haces click, la propia aplicación te llevará a esa sección. Todo esto sin recargas de página.   
         Esta herramienta si se usa bien garantiza bastante eficiencia y velocidad de manejo, además que su uso es bastante extendido en otras aplicaciones.
     
+<<<<<<< HEAD
     - Guia visual de estilo (paleta de colores, fuentes, etc)
 ![Tipografia](imgP3/Tipografia.png)  Tipografia
         - Iconografía
@@ -79,9 +73,36 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
 ![Iconos](imgP3/user.png)  Icono 10
         - Guia de color
 ![GUia](imgP3/guíaColor.png)  Guia Color
+=======
+#### Guia visual de estilo (paleta de colores, fuentes, etc)                
+                   
+- Tipografia   
+![Tipografia](imgP3/Tipografia.png)   
+
+- Iconografía             
+<img src="imgP3/arrow.png" width = "7%"/>
+<img src="imgP3/chat.png" width = "7%"/>
+<img src="imgP3/maleta.png" width = "7%"/>
+<img src="imgP3/monumento.png" width = "7%"/>
+<img src="imgP3/mundo.png" width = "7%"/>
+<img src="imgP3/sombrilla.png" width = "7%"/>
+<img src="imgP3/user_no.png" width = "7%"/>
+<img src="imgP3/user.png" width = "7%"/>
+
+- Guia de color        
+![GUia](imgP3/guíaColor.png)   
+>>>>>>> 6905bff70c0d300119cf36603841fba9519c2b6e
 
     
 ![Método UX](imgP3/mockup.png)  3.d Video
 ----
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox     
+    
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+![Método UX](imgP3/Survey.png) 3.e Valoración personal de la práctica (Documenta)  
+----
+Esta práctica la comenzamos en clase, nos conocíamos antes pero nunca habíamos trabajado en grupo sin embargo hemos sido capaces de adaptarnos a la situación del coronavirus y junto a herramientas como github, trello o drive hemos podido realizar de forma satisfactoria. La organización y la división de la tareas la realizamos de acuerdo a las habilidades y preferencias de cada miembro.
+Durante el desarrollo de la misma hemos podido observar cómo en ocasiones no nos ponemos en la piel de los usuarios y únicamente pensamos como informáticos, generando graves problemas tanto en el entendimiento del producto que se nos pide o en su uso. No solo hemos aprendido a pensar como usuarios, también hemos desarrollado técnicas para adaptar nuestros sistemas para una mayor accesibilidad por parte de toda la población.    
+La realización de estas prácticas nos ha servido para ver la gran importancia que tiene el usuario y su interacción con nuestro sistema, siendo fundamental un diseño precio en la interfaz. Para ello es necesario conocer y utilizar las distintas técnicas de UX que hemos podido dominar.
+
+
