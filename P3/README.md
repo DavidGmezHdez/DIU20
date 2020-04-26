@@ -79,7 +79,11 @@ En [SmashingMagazine](https://www.smashingmagazine.com/2010/04/maps-in-modern-we
 ![Método UX](imgP3/mockup.png)  3.d Video
 ----
 
-[Enlace al vídeo](https://www.youtube.com/watch?v=aaQZiJFULKI&feature=youtu.be)
+Video respondiendo a la propuesta de valor y explicando tanto el diseño como el proceso
+[Enlace al vídeo de propuesta de valor](https://www.youtube.com/watch?v=9eOpMhJWTEU&feature=youtu.be)
+Video adicional sobre la promoción de nuestra paǵina en RRSS
+[Enlace al vídeo promocional](https://www.youtube.com/watch?v=aaQZiJFULKI&feature=youtu.be)
+
 
 ![Método UX](imgP3/Survey.png) 3.e Valoración personal de la práctica (Documenta)  
 ----
