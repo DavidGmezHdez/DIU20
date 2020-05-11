@@ -5,7 +5,7 @@ Grupo: DIU1_CEREZA.  Curso: 2019/20
 
 Proyecto: Trip Finder
 
-Descripción: Nuestro objetivo es desarrollar una aplicación que permita a personas con menos recursos económicos puedan poder viajar y recorrer el mundo junto con otra persona usando la aplicación, siendo fácil y accesible para todo tipo de personas. También satisface las necesidades de algunas personas mayores con una aplicación móvil y un chat para hablar con los viajeros.
+Descripción: Nuestro objetivo es desarrollar una aplicación que permita a personas con menos recursos económicos puedan poder viajar y recorrer el mundo junto con otra persona usando la aplicación, siendo fácil y accesible para personas mayores o personas no familiarizadas con la tecnología. Esta accesibilidad se satisface con una aplicación móvil y un chat para hablar con los viajeros.
 
 Logotipo: 
 
