@@ -1,7 +1,6 @@
 # DIU - Practica 4, entregables
 ## Paso 4. Evaluación 
 
-
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 

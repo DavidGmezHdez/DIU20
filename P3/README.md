@@ -1,4 +1,4 @@
-DIU - Practica2, entregables
+DIU - Practica3, entregables
 ## Paso 3. Mi equipo UX-Case Study 
 
 

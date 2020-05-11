@@ -65,8 +65,15 @@ Como documentación final de la práctica realizamos una valoración personal as
 
 ## Paso 4. Evaluación 
 
+En este paso nuestro objetivo será el de evaluar y estudiar distintos casos de otros compañeros de prácticas, con un objetibvo lectivo y sacando sus elementos de valor.
+En un primer caso, realizaremos una labor de evaluación de cada caso en base a diferentes aspectos y variables, usando hojas de evaluación para este propósito.
 
+Para el segundo apartado, cogeremos a una de nuestras personas ficticias de la [Práctica 1](https://github.com/DavidGmezHdez/DIU20/tree/master/P1) y describiremos un 
+Mapa de usuario de esa persona, algo breve ya que no se pide el mapa completo.
 
+Por último clasificaremos a los distintos casos en un ranking y realizaremos una valoración personal a modo de conclusión
+
+[Práctica 4](https://github.com/DavidGmezHdez/DIU20/tree/master/P4) 
 
 ## Paso 5. Evaluación de Accesibilidad  
 
