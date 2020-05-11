@@ -1,15 +1,15 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU1_CEREZA.  Curso: 2019/20 
 
-Proyecto: Trip Giraffe
+Proyecto: Trip Finder
 
-Descripción: En esta práctica analizaremos la interfaz de usuario de la página web de Trip Giraffe.
+Descripción: Nuestro objetivo es desarrollar una aplicación que permita a personas con menos recursos económicos puedan poder viajar y recorrer el mundo junto con otra persona usando la aplicación, siendo fácil y accesible para todo tipo de personas
 
 Logotipo: 
 
-![Logotipo](img/logo.png)
+![Logotipo](img/logoNuevo.png)
 
 Miembros
  * ![Estudiante1](img/estudiante1.png) Gómez Hernández David     
