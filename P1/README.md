@@ -31,6 +31,8 @@ He elegido este JourneyMap porque puede asemejarse a una persona que pueda ser b
 
 ![Método UX](imgP1/usabilityReview.png) 1.d Usability Review
 ----
+[Usability Review](https://github.com/DavidGmezHdez/DIU20/blob/master/P1/Usability%20Review-Práctica%201.pdf) 
+
 VALORACIÓN FINAL: 62/100
 
 Es una página muy limpia e intuitiva. Ofrece un servicio variado y nuevo pero limitado (siendo de pago y solo en inglés).
