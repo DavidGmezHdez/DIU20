@@ -10,16 +10,16 @@ Nuestra propuesta de valor trata de dirigirse a un público con menos recursos e
 
 ![Método UX](imgP2/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+User-Matrix
 
-![Malla receptora](imgP2/mapaSituacion.png) Sitemap   
+![Malla receptora](imgP2/mapaSituacion.png) 
 
+Sitemap   
+
+![CardSorting](imgP2/card_sorting.png) 
 
 ![Método UX](imgP2/labelling.png) 2.c Labelling 
 ----
-
-
-![CardSorting](imgP2/card_sorting.png) Card Sorting
-
 Término | Significado     
 | ------------- | -------
 |  Buscador  | Realiza una búsqueda sobre la base datos con la información introducida
