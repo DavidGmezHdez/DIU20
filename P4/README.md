@@ -20,7 +20,6 @@ Para este caso, el compañero ha analizado una plataforma que permite ofrecer ha
 
 [Repositorio](https://github.com/GonzaloMartinezIanez/DIU2-GMI)
 
-
 ## Caso 3
 
 Para este caso, el compañero ha analizado una plataforma que permite compartir viajes, eventos, etc. de forma que pueda ser usado por uno o más usuarios. Nuesttro compañero ha pensado en mejorar todos los aspectos relacionados con su plataforma inicial. Esto conlleva a una mejora en la oferta y demanda de los usuarios, que tienen más poder a la hora de establecer los precios. Esto permitirá que haya un equilibrio y mejor personalización en los trayectos de viajes.
@@ -32,14 +31,16 @@ Para este caso, el compañero ha analizado una plataforma que permite compartir 
 
 ![Método UX](imgP4/usability-testing.png) 4.b User Testing
 ----
+En la realización de esta tarea, hemos elegido a Ayax García (enlace github) como usuario de las distintas experiencias. Ayax tal y como hablamos de él, es profesor de filosofía y con sus 51 años empieza a sentir que ha perdido cosas en su vida y desea encontrarse a sí mismo realizando un viaje con su mujer y abrir así su mente conociendo a otras persona de su misma edad.
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+## Experiencia compartir viaje (experiencia 1)
+Con Pazifika, Ayax y su mujer logran satisfacer sus necesidades para realizar un viaje juntos. Una de las inquietudes que les genera es si en dicha plataforma podrán encontrar a personas de su misma edad para compartir esta experiencia y abrir sus mentes. Pazifika le permite hablar con sus posibles viajeros antes de realizar dicho viaje y conocerse un poco, para ver afinidades.
 
-	Describe la experiencia 1
+## Experiencia compartir alojamiento (experiencia 2)
+Global home permite que las personas se alojen u ofrezcan su casa a otros usuarios, todo ello con un objetivo de trabajo o estudios. Ayax tras hablar con su mujer, deciden que antes de lanzarse a un viaje para encontrarse a sí mismo y cambiar de aires, pueden usar Global home y permitir que algunas personas se alojen en su casa. Con esto consiguen conocer a otras personas y cambiar su rutina (antes incluso de que lleguen sus vacaciones para hacer el viaje). Uno de los miedos de Ayax y su mujer es que las personas que lleguen a su casa, no sean afines a ellos, ya que no tienen ningún chat para poder comunicarse entre usuarios. Además el no poder filtrar el motivo de trabajo de los usuarios que se quedan en su casa, no les termina de convencer.
 
-	Describe la experiencia 2
-
-	Describe la experiencia 3
+## Experiencia compartir eventos (experiencia 3)
+Ayax y su mujer desean hacer un viaje de escapada de puente, todo ello como simulacro al viaje más grande que querían realizar para que Ayax consiga cambiar su rutina y encontrarse. Pero dada la magnitud de ese viaje, deciden hacer un viaje más pequeño pero más pronto y así poder animarse y suscitar emociones distintas en ambos. No desean gastar mucho dinero en esta escapada y les recomienda una aplicación llamada Bolargos, que es muy similar a Blabacar pero que ofrece más libertad a los usuarios y pueden estos fijar los precios de los viajes. Al principio comienzan su uso con algo de recelo ya que solo ven viajes creados por otras personas pero tras utilizar el bot y conseguir leer las preguntas más frecuentes, se dan cuenta que pueden ellos crear un viaje con su precio y que otras personas lo acepten. Además el feedback que tienen los usuarios y sus perfiles les permiten acercarse a sus gustos y conseguir encontrar un compañero ideal.
 
 ![Método UX](imgP4/Survey.png). 4.c Ranking 
 ----
