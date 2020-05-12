@@ -46,15 +46,16 @@ Ayax y su mujer desean hacer un viaje de escapada de puente, todo ello como simu
 ----
 A la hora de hacer un ranking, basándonos en lo que hemos visto en esto 3 casos, los calificaríamos de la siguiente forma.
 
-## Puesto número 1
+# Puesto número 1
 La [Experiencia número 3 - Compartir experiencias](https://github.com/iscoct/DIU20) nos ha parecido la más completa e interesante, ya que aborda distintas partes de su análisis y las transforma en una idea nueva, documentando todo de una manera excelente, profesional y amplia.
 
-## Puesto número 2
+# Puesto número 2
 La [Experiencia número 1 - Compartir viajes](https://github.com/migue99angel/DIU20) tiene muy buenas ideas en cuanto al diseño y patrones que usar, así como una propuesta de valor interesante. Los bocetos tienen calidad de profesional, sin embargo, flaquea en la parte del análisis usando personas ficticias.
 
-## Puesto número 3
+# Puesto número 3
 La [Experiencia número 2 - Compartir alojamiento](https://github.com/GonzaloMartinezIanez/DIU2-GMI) Cumple de forma correcta con todos los puntos de la práctica, sin embargo lo hace de forma superficial y no profundiza en las tareas pedidas.
 
+# Conclusión
 A moodo de conclusión de la práctica, nos ha servido para ver cómo nuestros compañeros se enfrentaban a las prácticas y compararlo con el trabajo que hemos realizado, dándonos cuenta de nuestros puntos fuertes y débiles, así como adquirir nuevas ideas y conocimientos en base a la observación del trabajo de los compañeros. 
 
 El ver trabajos basados que no tuvieran que ver con nuestra temática (economía colaborativa) nos ha servido para ver cómo se afrontan los distintos modelos de negocio diferentes al nuestro.
