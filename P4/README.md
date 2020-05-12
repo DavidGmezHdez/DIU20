@@ -56,6 +56,8 @@ La [Experiencia número 1 - Compartir viajes](https://github.com/migue99angel/DI
 La [Experiencia número 2 - Compartir alojamiento](https://github.com/GonzaloMartinezIanez/DIU2-GMI) Cumple de forma correcta con todos los puntos de la práctica, sin embargo lo hace de forma superficial y no profundiza en las tareas pedidas.
 
 ### Conclusión
-A moodo de conclusión de la práctica, nos ha servido para ver cómo nuestros compañeros se enfrentaban a las prácticas y compararlo con el trabajo que hemos realizado, dándonos cuenta de nuestros puntos fuertes y débiles, así como adquirir nuevas ideas y conocimientos en base a la observación del trabajo de los compañeros. 
+A moodo de conclusión de la práctica, nos ha servido para ver cómo nuestros compañeros se enfrentaban a las prácticas y compararlo con el trabajo que hemos realizado, dándonos cuenta de nuestros puntos fuertes y débiles, así como adquirir nuevas ideas y conocimientos en base a la observación del trabajo de los compañeros. Los vídeos de los compañeros nos han parecido interesante y una manera de verles la capacidad creativa que tienen cuando se enfrentan a un problema de este estilo. 
 
 El ver trabajos basados que no tuvieran que ver con nuestra temática (economía colaborativa) nos ha servido para ver cómo se afrontan los distintos modelos de negocio diferentes al nuestro.
+
+
